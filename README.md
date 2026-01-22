@@ -1,4 +1,4 @@
-#Pig game
+# Pig game
 
 It is a two-player web-game that works following these rules: 
 - First to reach a score of 100 wins
